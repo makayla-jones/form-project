@@ -1,0 +1,32 @@
+.all-text,.all-form,h1{
+  margin:0;
+  padding:0;
+}
+h1{
+  text-align: center;
+  margin-bottom:20px;
+}
+body{
+  max-width:250px;
+  margin:150px auto;
+  padding:18px;
+  border:1px solid black;
+  height:200px;
+  border-radius:8px;
+  font-family: 'Raleway', sans-serif;
+}
+input[type=submit]{
+  margin:20px;
+  padding-right:95px;
+  padding-left:90px;
+  background-color:white;
+  border:1px solid rgb(115, 109, 109);
+  border-radius:4px;
+  font-size:11px;
+  
+}
+input[type=text]{
+  margin:5px;
+  font-size:12px;
+}
+
